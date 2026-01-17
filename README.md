@@ -25,10 +25,10 @@ The project was built using **Python 3** and the key libraries are:
 
 ## Images
 
-!Python File
+### Python File
 ![Script](imgs/jsongen1.png)
 
-!Generated JSON File
+### Generated JSON File
 ![Script](imgs/jsondata.png)
 
 ## Installation and Setup
