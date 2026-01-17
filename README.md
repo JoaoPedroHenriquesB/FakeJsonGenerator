@@ -8,8 +8,6 @@ The main intent of this project is to **automate the creation of realistic datas
 
 ## Features
 
-Here are the core functionalities implemented in the project:
-
 * **Bulk Data Generation:** Capable of generating thousands of records (default is 10,000) in seconds.
 * **Realistic Mock Data:** Uses the `Faker` library to create authentic-looking names, emails, and dates.
 * **Structured JSON Output:** Exports data to a clean, indented `bigjson.json` file.
