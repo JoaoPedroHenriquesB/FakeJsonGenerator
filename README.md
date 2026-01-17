@@ -1,8 +1,8 @@
-# JsonGenerator
+# FakeJsonGenerator
 
 ## Overview
 
-**JsonGenerator** is a Python-based automation tool designed to generate large volumes of mock user data in JSON format.
+**FakeJsonGenerator** is a Python-based automation tool designed to generate large volumes of mock user data in JSON format.
 
 The main intent of this project is to **automate the creation of realistic datasets for testing, database population, and analysis**. It solves the problem of having to manually write or copy-paste sample data by programmatically generating thousands of user records with realistic attributes like names, emails, and employment details.
 
@@ -25,15 +25,15 @@ The project was built using **Python 3** and the key libraries are:
 
 ## Images
 
-!Terminal Execution
-*Figure 1: Running the script in the terminal.*
+!Python File
+![Script](imgs/jsongen1.png)
 
 !Generated JSON File
-*Figure 2: The resulting bigjson.json file structure.*
+![Script](imgs/jsondata.png)
 
 ## Installation and Setup
 
-Follow these simple steps to get JsonGenerator running locally on your machine.
+Follow these simple steps to get FakeJsonGenerator running locally on your machine.
 
 ### Prerequisites
 
@@ -47,7 +47,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your-username/JsonGenerator.git
+    git clone https://github.com/JoaoPedroHenriquesB/FakeJsonGenerator.git
     cd JsonGenerator
     ```
 
